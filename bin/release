@@ -3,5 +3,5 @@
 cat << EOF
 ---
 config_vars:
-  PATH: "/usr/bin:/usr/local/bin:/app/bin:/app/vendor/mongodb/bin"
+  PATH: "/usr/local/bin:/usr/bin:/bin:/app/bin:/app/vendor/mongodb/bin"
 EOF
